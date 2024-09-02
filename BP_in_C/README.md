@@ -1,7 +1,7 @@
 # Backpropagation implementation in C
-`main.c`: file that executes training <\br>
-`get_data.c`: retrieves data from .csv file <\br>
-`activation.c`: definition of activation functions <\br>
+`main.c`: file that executes training 
+`get_data.c`: retrieves data from .csv file
+`activation.c`: definition of activation functions
 
 ## How to compile
 `gcc main.c activation.c get_data.c -o main -lm`
