@@ -2,4 +2,4 @@
 Jupyter notebook to run on Jupyter kernel. 
 
 ## Cuda memory analysis
-In both BP and PEPITA code, uncomment ### comments (and adjust when necessary, i.e. forward pass execution)
+In both BP and PEPITA code, to run Cuda memory evaluation uncomment ### comments (and adjust when necessary, i.e. forward pass execution)
